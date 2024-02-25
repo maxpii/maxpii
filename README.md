@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxpii" alt="maxpii" /></a> </p>
 
-- 🔭 I’m currently working on **A Resturant Clone and a Tic-Tac-Toe project to learn javascript**
+- 🔭 I’m currently working on *A quizletClone project**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **Flask and Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Javascript games development projects**
+- 👯 I’m looking to collaborate on **Game development related projects**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maxpii/Muhammad](https://github.com/maxpii/Muhammad)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hmrazarafique@gmail.com**
 
-- ⚡ Fun fact **I love sports, and have started track.**
+- ⚡ Fun fact **I love sports, and regurarly run and play soccer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
