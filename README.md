@@ -3,21 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxpii" alt="maxpii" /></a> </p>
 
-- 🔭 I’m currently working on *A quizletClone project**
+- 🔭 I’m currently working on **A fitness app**
 
-- 🌱 I’m currently learning **Flask and Bootstrap CSS**
+- 🌱 I’m currently learning **React and Typescript**
 
-- 👯 I’m looking to collaborate on **Game development related projects**
+- 👯 I’m looking to collaborate on **Full-stack projects**
 
-- 🤝 I’m looking for help with **Flask**
+- 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maxpii/Muhammad](https://github.com/maxpii/Muhammad)
+- 👨‍💻 All of my projects are available at [https://github.com/maxpii/Muhammad](https://github.com/maxpii)
 
-- 💬 Ask me about **Python, Java, Gaming, and Fitness**
+- 💬 Ask me about **Python, Front-end development, sports, and Fitness**
 
 - 📫 How to reach me **hmrazarafique@gmail.com**
 
-- ⚡ Fun fact **I love sports, and regularly run and play soccer.**
+- ⚡ Fun fact **I love sports, and regularly workout and play soccer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
